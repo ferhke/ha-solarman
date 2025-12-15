@@ -45,7 +45,7 @@
 - Enter the appropriate details (should be autodiscovered under most circumstances) and click SUBMIT
 
 ## 👤 Contributors
-<a href="https://github.com/davidrapan/ha-solarman/graphs/contributors">
+<a href="[https://github.com/ferhke/ha-solarman/settings/access]">
   <img src="https://contrib.rocks/image?repo=davidrapan/ha-solarman" />
 </a>
 <br>
