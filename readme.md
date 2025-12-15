@@ -46,7 +46,7 @@
 
 ## 👤 Contributors
 <a href="[https://github.com/ferhke/ha-solarman/settings/access]">
-  <img src="https://contrib.rocks/image?repo=davidrapan/ha-solarman" />
+
 </a>
 <br>
 <br>
